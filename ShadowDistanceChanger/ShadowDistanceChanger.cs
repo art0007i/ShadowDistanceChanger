@@ -1,5 +1,5 @@
 using HarmonyLib;
-using NeosModLoader;
+using ResoniteModLoader;
 using System;
 using System.Linq;
 using System.Reflection;
@@ -9,11 +9,11 @@ using FrooxEngine;
 
 namespace ShadowDistanceChanger
 {
-    public class ShadowDistanceChanger : NeosMod
+    public class ShadowDistanceChanger : ResoniteMod
     {
         public override string Name => "ShadowDistanceChanger";
         public override string Author => "art0007i";
-        public override string Version => "1.0.0";
+        public override string Version => "2.0.0";
         public override string Link => "https://github.com/art0007i/ShadowDistanceChanger/";
 
         [AutoRegisterConfigKey]
