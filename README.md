@@ -1,3 +1,5 @@
+# This mod is no longer necessary as it was added as part of the 2024.4.18.1398 update
+
 # ShadowDistanceChanger
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that allows changing the shadow distance using the mod's config. (double the normal range by default)
